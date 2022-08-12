@@ -369,3 +369,21 @@
     }
 
 }
+
+@media screen and (max-height: 690px) {
+    .game-area{
+        top: 65%;
+    }
+
+}
+
+@media screen and (max-height: 525px) {
+    .game-area{
+        top: 65%;
+    }
+
+    .users{
+        top: 35%;
+    }
+
+}
